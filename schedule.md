@@ -11,7 +11,7 @@
 
 | TaskId | Start time | TO DO | Status | Estimating | Actual | Comment | Category | Date |
 | ------ | ---------- | ----- | ------ | ---------- | ------ | ------- | -------- | ---- |
-|        |            |       |        |            |        |         |          |      |
+|  1  |  23.00  |  准备rustlings环境   |   D     |      1      |     1   |     rustlings安装和README有一点不同。    |     DEV     |    10.9  |
 
 ## Tech details
 
