@@ -5,13 +5,17 @@
 
 | id  | Item | DDL | Estimating | Important | Emergency |
 | --- | ---- | --- | ---------- | --------- | --------- |
-|  1  | rustlings |  10.15   |   16    |    normal  |           |
+|  1  | rustlings |  10.15   |   16    |    normal  |    有两天比较忙，抽不出空       |
 
 ## Records （记录表）
 
 | TaskId | Start time | TO DO | Status | Estimating | Actual | Comment | Category | Date |
 | ------ | ---------- | ----- | ------ | ---------- | ------ | ------- | -------- | ---- |
 |  1  |  23.00  |  准备rustlings环境   |   D     |      1      |     1   |     rustlings安装和README有一点不同。    |     DEV     |    10.9  |
+| 1 | 16:00 | rustlings1-11题 | D | 1 | 0.5 | 比较容易 | DEV | 10.10 |
+| 1 | 16:30 | rustlings12-40题 | D | 3 | 4 |  | DEV | 10.10 |
+| 1 | ----- | rustlings41-80题 | D | 10 | 13 |  | DEV | 10.10、10.11、10.12 |
+| 1 | ----- | rustlings41-80题 | D | 10 | 9 |  | DEV | 10.17 |
 
 ## Tech details
 
