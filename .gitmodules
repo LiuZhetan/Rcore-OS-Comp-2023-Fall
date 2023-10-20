@@ -1,3 +1,6 @@
 [submodule "rust-rustlings-2023-autumn-LiuZhetan"]
 	path = rust-rustlings-2023-autumn-LiuZhetan
 	url = git@github.com:LearningOS/rust-rustlings-2023-autumn-LiuZhetan.git
+[submodule "rCore-Tutorial-v3-2023-Fall"]
+	path = rCore-Tutorial-v3-2023-Fall
+	url = git@github.com:LiuZhetan/rCore-Tutorial-v3-2023-Fall.git
