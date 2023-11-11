@@ -7,3 +7,6 @@
 [submodule "blog"]
 	path = blog
 	url = git@github.com:LiuZhetan/blog.git
+[submodule "arceos"]
+	path = arceos
+	url = git@github.com:LiuZhetan/arceos.git
