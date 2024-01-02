@@ -9,3 +9,7 @@
 ```shell
 cargo install --force --path .
 ```
+
+### rustsbi相关问题
+
+如果使用高版本的qemu(8.1.1)需要使用最新的[rustsbi-qemu](https://github.com/rustsbi/rustsbi-qemu)。
