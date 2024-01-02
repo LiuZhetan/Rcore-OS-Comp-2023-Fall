@@ -1,0 +1,18 @@
+[package]
+name = "hello_app"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+
+[toolchain]
+profile = "minimal"
+channel = "nightly"
+components = ["rust-src", "llvm-tools-preview", "rustfmt", "clippy"]
+targets = ["riscv64gc-unknown-none-elf"]
+
+[profile.release]
+debug = true
